@@ -1,0 +1,58 @@
+# Prework - Test Project
+
+Submitted by: Jasmine Ben-Whyte
+
+Test Project is an app that displays my personal information and changes the color of the background when the button is clicked.
+
+Time spent: 0.5 hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ ] Users are see a screen with three labels and a button
+- [ ] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+## App Brainstorming (Step 4)
+Applications I Like
+- Craft
+	- I like the layout of the app which is simple in a modern way
+	- I like how I can create 'spaces' for my different types of writing
+- Slack
+	- I like how it makes communication with teams super easy
+	- I like the simplistic and easy layout
+- Parallel
+	- I like that it allows me to run Windows applications on my MAC
+	- I like that it has an affordable pricing for students
+
+Application I'd Create
+I've loved books for a while, and while I can't read as much as I used to because of school, I would love an app that makes reading that connects me to other readers. It would be
+combining Wattpad's best feature, which is community, with ebook reader platforms, so rather than having to read just fanfics and 'unpublished' books on Wattpad, readers can 
+read published books and share their comments on specific lines or paragraphs/sections. Each comment would have a validation period, to keep the app safe and prevent spoilers, and comments can be liked and upvoted. I'm yet to find an app which brings a safe, in-book community to readers and that's what this app does.
+
+## Notes
+
+Describe any challenges encountered while building the app.
+I had a slight bump trying to navigate the Xcode interface
+
+## License
+
+    Copyright [2024] [Jasmine Ben-Whyte]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
